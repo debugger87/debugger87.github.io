@@ -1,0 +1,8 @@
+title: Debugger87's Blog
+description: 
+google_analytics: UA-49815052-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
