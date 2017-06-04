@@ -15,6 +15,7 @@ I'm currently a data engineer working at [今日头条](http://toutiao.com), pre
 ### Projects
 -------------
 * Projects contribute to
+  * [Hive](https://github.com/apache/hive): Data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL.
   * [chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
   * [storm](https://github.com/mesos/storm): Storm on Mesos!
   * [Tachyon](https://github.com/amplab/tachyon): A Reliable Memory Centric Distributed Storage System
