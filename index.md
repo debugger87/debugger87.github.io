@@ -35,5 +35,5 @@ I'm currently a data engineer working at [今日头条](http://toutiao.com), pre
 * Twitter: [@Debugger57](https://twitter.com/Debugger57)
 * Weibo: [@Debugger87](http://weibo.com/debugger87)
 * LinkedIn: [@Debugger87](https://www.linkedin.com/in/debugger87)
-* Delicious: [@Debugger87](https://delicious.com/debugger87)
+* Delicious: [@Debugger87](https://del.icio.us/debugger87)
 * Instagram: [@Debugger87](https://instagram.com/debugger87)
