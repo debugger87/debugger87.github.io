@@ -31,6 +31,5 @@ I'm currently a data engineer working at [今日头条](http://toutiao.com), pre
 
 ### Social
 -----------
-* Twitter: [@Debugger57](https://twitter.com/Debugger57)
 * Delicious: [@Debugger87](https://del.icio.us/debugger87)
 * Instagram: [@Debugger87](https://instagram.com/debugger87)
