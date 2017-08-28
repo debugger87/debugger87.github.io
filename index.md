@@ -27,7 +27,6 @@ I'm currently a data engineer working at [今日头条](http://toutiao.com), pre
   * [tic-tac-toe-scala](https://github.com/debugger87/tic-tac-toe-scala): Tic Tac Toe game implemented in Scala
   * [polish-notation-calculator](https://github.com/debugger87/polish-notation-calculator): Polish notation calculator implemented in Scala
   * [machupicchu](https://github.com/debugger87/machupicchu): GeekParty 黑客马拉松马丘比丘队官方仓库
-  * [VRPlatform](https://github.com/debugger87/VRPlatform): 基于 DirectX 的虚拟现实平台 
 
 ### Social
 -----------
